@@ -1,0 +1,26 @@
+body{
+    height:100vh;
+}
+
+.form-con{
+    margin-bottom:1rem;
+}
+
+.form{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.updateButt{
+    background-color:rgb(80, 88, 184);
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:#ffffff;
+    text-align:center;
+    border-radius:6px;
+    font-size:15px;
+}
